@@ -371,7 +371,7 @@ class _ChatItemScreenState extends State<ChatItemScreen> {
                                   height: 60,
                                   width: MediaQuery.of(context).size.width,
                                   color: AppColors.white,
-                                  child: const Column(
+                                  child: Column(
                                     mainAxisAlignment: MainAxisAlignment.center,
                                     children: [
                                       Text(
